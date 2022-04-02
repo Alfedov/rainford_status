@@ -1,0 +1,11 @@
+[2022-03-05 16:15:59] [Error: insert into `heartbeat` (`duration`, `important`, `monitor_id`, `msg`, `status`, `time`) values (100, false, 3, '
+�΅¬¥­ ― �¥β ¬¨ α 82.202.172.15 ―® α 32 ΅ ©β ¬¨ ¤ ­­λε:
+�à¥¢ëè¥­ ¨­â¥à¢ « ®¦¨¤ ­¨ï ¤«ï § ¯à®á .
+
+‘ג ג¨בג¨×  Ping ₪«ן 82.202.172.15:
+    � ×¥ג®¢: ®ג¯א ¢«¥­® = 1, ¯®«דח¥­® = 0, ¯®ג¥אן­® = 1
+    (100% ¯®ג¥אל)
+', 0, '2022-03-05 13:15:49') - SQLITE_CONSTRAINT: FOREIGN KEY constraint failed] {
+  errno: 19,
+  code: 'SQLITE_CONSTRAINT'
+}
